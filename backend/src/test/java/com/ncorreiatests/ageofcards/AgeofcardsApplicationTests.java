@@ -1,4 +1,4 @@
-package com.example.ageofcards;
+package com.ncorreiatests.ageofcards;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
